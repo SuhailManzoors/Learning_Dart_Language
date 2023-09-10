@@ -1,0 +1,29 @@
+Account Setup For First Time When You Install Git In Your Computer We Run These 2 Commands only once after installation.
+
+git config --global user.name "your github username"
+git config --global user.email "your github email"
+__________________________________________________
+git status
+_______________________________________________
+
+For New Project Commands
+
+git init  (git ko initialize karedega project folder men)
+
+git add .   ,yaaaa, git filename 
+
+git commit -m "Lectures Of Dart Language Notes"
+
+git remote add origin https://github.com/SuhailManzoors/DartPrograms.git
+
+git push -u origin master
+
+____________________________________
+
+For Project Update
+
+git add . 
+
+git commit -m "your massage"
+
+git push
