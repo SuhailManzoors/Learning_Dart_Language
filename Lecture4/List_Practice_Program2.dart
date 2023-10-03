@@ -3,7 +3,7 @@ import 'dart:async';
 void main(){
     //  >> List is Similar to an Array, which is the ordered collection of the objects.
     // The Array is the most popular and commonly used collection in any other programming language.
-
+    
     //Syantx
   //       //var identifies your variable data type and set data type according data
   // var studentsName0 = ["Sohail" , "Ahmed" , "Sarfraz"];
@@ -115,18 +115,14 @@ void main(){
 
 
 
-          List RollNo = [3 , 5 , 7 ,2 , 9 , 1];
-          int newRoll = RollNo.sort();
-         newRoll.Reversed();
-          print(RollNo);
+          // List RollNo = [3 , 5 , 7 ,2 , 9 , 1];
+          // RollNo.sort();
+          // RollNo = RollNo.reversed.toList();
+          // print(RollNo);
           
           
-
-      
-       
        
        //Assignemnt to expolre more methods 
-
 
 
        
